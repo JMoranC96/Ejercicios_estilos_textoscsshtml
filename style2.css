@@ -1,0 +1,24 @@
+.gratitud {
+    color: green;
+    text-decoration: underline;
+}
+.sentido {
+    color: red;
+    font-weight: bold;
+}
+.pasado {
+    text-decoration: underline overline;
+}
+.hoy {
+    font-size: 40px;
+    font-weight: bold;
+}
+.vision {
+    font-size: 40px;
+    font-style: italic;
+}
+.manana {
+    color: red;
+    font-weight: bold;
+    text-decoration: underline;
+}
